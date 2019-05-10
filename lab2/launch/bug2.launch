@@ -1,0 +1,8 @@
+<launch>
+	<node name="stage" pkg="stage_ros" type="stageros"
+	      args="$(find lab2)/world/playground.world" />
+	<node name="perception" pkg="lab2" type="perception.py"
+	      args="$(find lab2)/scripts/perception.py" />
+<node name="bug2" pkg="lab2" type="Bug2.py"
+	      args="$(find lab2)/scripts/Bug2.py" />
+</launch>

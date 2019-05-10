@@ -1,1 +1,1 @@
-These are my projects for my robotics algorithms class, uploaded post completion for storage purposes.
+This lab required implemnting the bug 2 algorithm.
