@@ -1,0 +1,4 @@
+<launch>
+	<node name="read" pkg="lab4" type="read.py"
+	      args="$(find lab4)/Scripts/perception.py" />
+</launch>

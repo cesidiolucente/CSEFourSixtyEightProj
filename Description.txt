@@ -1,1 +1,1 @@
-These are my projects for my robotics algorithms class, uploaded post completion for storage purposes.
+Lab 4 involved positional predicion using both bag files for inital data and movement, and gaussian functions to predict probability.
