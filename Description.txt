@@ -1,1 +1,1 @@
-These are my projects for my robotics algorithms class, uploaded post completion for storage purposes.
+This lab introduced me to some minor image processing, using either matlab or octave.
