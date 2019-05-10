@@ -1,1 +1,1 @@
-These are my projects for my robotics algorithms class, uploaded post completion for storage purposes.
+This lab taught us more advanced planning algorithms and required us to implement A* to have a robot that is spawned randomly on a map to reach a desination that is also random.
